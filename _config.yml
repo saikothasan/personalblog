@@ -32,7 +32,9 @@ minima:
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
-
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
     # Mastodon instances
     # mastodon:
     # - username: jekyll
@@ -51,7 +53,9 @@ minima:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
-
+header_pages:
+  - about.md
+  - portfolio.md
 # Build settings
 theme: minima
 
