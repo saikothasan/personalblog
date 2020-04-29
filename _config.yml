@@ -16,25 +16,25 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: saikot91
+    github:  saikothasan
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: saikot91
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: imsaikot
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    youtube_channel: UC-RiB0tdmNKo5LpdtaZKFow
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
 author:
-  name: John Smith
-  email: "john.smith@foobar.com"
+  name: Saikot hasan
+  email: "contact@saikot.me"
     # Mastodon instances
     # mastodon:
     # - username: jekyll
